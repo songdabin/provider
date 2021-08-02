@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "353527867555",
+    "project_id": "whynot-10e3a",
+    "storage_bucket": "whynot-10e3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353527867555:android:08d11f3e440d394a9af716",
+        "android_client_info": {
+          "package_name": "com.example.vacation_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353527867555-c4mpm4eq51pjdtoldu4k6003l3bpbrsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy6x2hX_izOvAVGBWKZbiTXybzIirzpmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353527867555-c4mpm4eq51pjdtoldu4k6003l3bpbrsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
